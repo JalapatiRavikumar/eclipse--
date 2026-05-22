@@ -1,0 +1,48 @@
+body{
+    background-color: yellow;
+    width: 200px;
+    height : 100px;
+}
+
+#p1{
+    background-color: bisque;
+    text-align: left;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+    font-style: italic;
+
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Wittgenstein", serif;
+}
+
+#p2{
+    background-color: bisque;
+    text-align: right;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Wittgenstein", serif;
+}
+
+
+#p3{
+    background-color: bisque;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Wittgenstein", serif;
+}
+
+
+#p4{
+    background-color: bisque;
+    text-align: under;
+    font-family: "Wittgenstein", serif;
+}

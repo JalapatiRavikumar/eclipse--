@@ -1,0 +1,32 @@
+body{
+   background-image: url('th.jpg');
+   background-repeat: repeat-x ;
+   background-size: cover;
+   background-attachment: scroll;
+   
+}
+
+/*#p1{
+    background-color: rebeccapurple;
+}
+
+#p2{
+    background-color: greenyellow;
+}
+
+#p3{
+    background-color: navy;
+}
+
+#h2{
+    background-color: antiquewhite;
+}
+
+#h2{
+    background-color: antiquewhite;
+}
+
+#h2{
+    background-color: antiquewhite;
+}
+    */

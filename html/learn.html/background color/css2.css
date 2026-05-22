@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    background-image: url('th.jpg');
+    background-repeat: repeat-x;
+    background-size:cover ;
+    background-attachment: scroll;
+}
+
+#p1{
+    background-color: aqua;
+}
