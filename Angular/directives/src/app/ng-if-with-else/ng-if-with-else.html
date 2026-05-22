@@ -1,0 +1,19 @@
+<!-- <h1 *ngIf = "!data" else sample>loading....</h1>
+
+<div #sample>
+  {{data}}
+</div> -->
+
+
+<!-- <h1 *ngIf="!data; else sample">loading..</h1>
+
+<ng-template #sample>
+  adasda
+</ng-template> -->
+
+
+<h1 *ngIf="!data; then load;  else sample">loading..</h1>
+
+<ng-template #sample>
+  adasda
+</ng-template>

@@ -1,0 +1,10 @@
+<p [class] = "isactive ? 'active' : 'inactive'">class-binding works!</p>
+
+
+<h1 [class] = "{c1 : applyc1, active : isactive}"></h1>
+
+<h1 [class] = "['c1','active']">thos is heading</h1>
+
+<h1 [class]="{'c1:','active'}">thos is heading</h1>//condition based
+
+<h1 [class.active] = isactive></h1>
